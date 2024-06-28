@@ -11,7 +11,6 @@ A simple Node.js and MongoDB application to manage a collection of books and aut
   - [Testing with Postman](#-testing-with-postman)
 - [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 
