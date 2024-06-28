@@ -94,24 +94,24 @@ A simple Node.js and MongoDB application to manage a collection of books and aut
 
 ## 🗂️ Project Structure
 
-book-author-api/
-├── controllers/
-│   ├── authorController.js
-│   ├── bookController.js
-├── models/
-│   ├── Author.js
-│   ├── Book.js
-├── routes/
-│   ├── authorRoutes.js
-│   ├── bookRoutes.js
-├── utils/
-│   ├── apiFeatures.js
-│   ├── appError.js
-│   ├── catchError.js
-├── .env
-├── app.js
-├── package.json
-└── README.md
+book-author-api/  
+├── controllers/  
+│   ├── authorController.js  
+│   ├── bookController.js  
+├── models/  
+│   ├── Author.js  
+│   ├── Book.js  
+├── routes/  
+│   ├── authorRoutes.js  
+│   ├── bookRoutes.js  
+├── utils/  
+│   ├── apiFeatures.js  
+│   ├── appError.js  
+│   ├── catchError.js  
+├── .env  
+├── app.js  
+├── package.json  
+└── README.md  
 
 ##🤝 Contributing
 
